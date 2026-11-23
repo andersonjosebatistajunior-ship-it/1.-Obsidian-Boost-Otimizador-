@@ -1,0 +1,25 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# Logs & Backups
+*.log
+*.bak
+app_crash.log
+
+# Ambientes Virtuais
+venv/
+env/
+.env
+
+# Chaves e Licenças Comerciais
+banco_de_dados_licencas.json
+CHAVES_PARA_VENDER.txt
+*.xlsx
+*.csv
